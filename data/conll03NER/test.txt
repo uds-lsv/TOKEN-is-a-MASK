@@ -33717,8 +33717,8 @@ MCI NNP I-NP B-ORG
 Communications NNP I-NP I-ORG
 Corporation NNP I-NP I-ORG
 . . I-NP O
-" " O O
 
+" " O O
 How WRB B-ADVP O
 can MD O O
 we PRP B-NP O
