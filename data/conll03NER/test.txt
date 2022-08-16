@@ -33717,6 +33717,7 @@ MCI NNP I-NP B-ORG
 Communications NNP I-NP I-ORG
 Corporation NNP I-NP I-ORG
 . . I-NP O
+" " O O
 
 How WRB B-ADVP O
 can MD O O
@@ -33725,6 +33726,7 @@ control VBD B-VP O
 them PRP B-NP O
 all DT B-NP O
 ? . O O
+" " O O
 
 Italy NNP B-NP B-LOC
 evacuates VBZ B-VP O
