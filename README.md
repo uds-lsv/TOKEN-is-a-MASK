@@ -1,6 +1,6 @@
 ### [TOKEN is a MASK: Few-shot Named Entity Recognition with Pre-trained Language Models](https://arxiv.org/abs/2206.07841) 
 
-This repository contains sample notebooks for both [zero-shot](https://github.com/uds-lsv/TOKEN-is-a-MASK/blob/main/example_zero-shot.ipynb) and [few-shot](https://github.com/uds-lsv/TOKEN-is-a-MASK/blob/main/example_zero-shot.ipynb) scenarios based on [CoNLL-03](https://github.com/uds-lsv/TOKEN-is-a-MASK/tree/main/data/conll03NER), we did not use OntoNotes and i2b2 dataset because they are not publicly available. 
+This repository contains sample notebooks for both [zero-shot](https://github.com/uds-lsv/TOKEN-is-a-MASK/blob/main/example_zero-shot.ipynb) and [few-shot](https://github.com/uds-lsv/TOKEN-is-a-MASK/blob/main/example_few-shot.ipynb) scenarios based on [CoNLL-03](https://github.com/uds-lsv/TOKEN-is-a-MASK/tree/main/data/conll03NER), we did not use OntoNotes and i2b2 dataset because they are not publicly available. 
 
 
 ### BibTeX entry and citation info
