@@ -1,10 +1,10 @@
 EU NNP B-NP B-ORG
 rejects VBZ B-VP O
-German JJ B-NP B-MISC
+German JJ B-NP O
 call NN I-NP O
 to TO B-VP O
 boycott VB I-VP O
-British JJ B-NP B-MISC
+British JJ B-NP O
 lamb NN I-NP O
 . . O O
 
@@ -23,13 +23,13 @@ Thursday NNP B-NP O
 it PRP B-NP O
 disagreed VBD B-VP O
 with IN B-PP O
-German JJ B-NP B-MISC
+German JJ B-NP O
 advice NN I-NP O
 to TO B-PP O
 consumers NNS B-NP O
 to TO B-VP O
 shun VB I-VP O
-British JJ B-NP B-MISC
+British JJ B-NP O
 lamb NN I-NP O
 until IN B-SBAR O
 scientists NNS B-NP O
@@ -180,7 +180,7 @@ health NN I-NP O
 
 Fischler JJR B-NP B-PER
 proposed VBN I-NP O
-EU-wide NNP I-NP B-MISC
+EU-wide NNP I-NP O
 measures VBZ B-VP O
 after IN B-PP O
 reports NNS B-NP O
@@ -195,11 +195,11 @@ conditions NNS B-NP O
 sheep NN I-NP O
 could MD B-VP O
 contract VB I-VP O
-Bovine NNP B-NP B-MISC
-Spongiform NNP I-NP I-MISC
-Encephalopathy NNP I-NP I-MISC
+Bovine NNP B-NP O
+Spongiform NNP I-NP O
+Encephalopathy NNP I-NP O
 ( ( O O
-BSE NNP B-NP B-MISC
+BSE NNP B-NP O
 ) ) O O
 -- : O O
 mad JJ B-NP O
@@ -245,7 +245,7 @@ human JJ B-NP O
 health NN I-NP O
 . . O O
 
-Spanish NNP B-NP B-MISC
+Spanish NNP B-NP O
 Farm NNP I-NP O
 Minister NNP I-NP O
 Loyola NNP I-NP B-PER
@@ -326,7 +326,7 @@ brain-wasting JJ I-NP O
 disease NN I-NP O
 similar JJ B-ADJP O
 to TO B-PP O
-BSE NNP B-NP B-MISC
+BSE NNP B-NP O
 which WDT B-NP O
 is VBZ B-VP O
 believed VBN I-VP O
@@ -343,7 +343,7 @@ animal NN B-NP O
 waste NN I-NP O
 . . O O
 
-British JJ B-NP B-MISC
+British JJ B-NP O
 farmers NNS I-NP O
 denied VBN B-VP O
 on IN B-PP O
@@ -363,14 +363,14 @@ but CC O O
 expressed VBD B-VP O
 concern NN B-NP O
 that IN B-SBAR O
-German JJ B-NP B-MISC
+German JJ B-NP O
 government NN I-NP O
 advice NN I-NP O
 to TO B-PP O
 consumers NNS B-NP O
 to TO B-VP O
 avoid VB I-VP O
-British JJ B-NP B-MISC
+British JJ B-NP O
 lamb NN I-NP O
 might MD B-VP O
 influence VB I-VP O
@@ -435,7 +435,7 @@ in IN B-PP O
 March NNP B-NP O
 after IN B-PP O
 a DT B-NP O
-British JJ I-NP B-MISC
+British JJ I-NP O
 report NN I-NP O
 suggested VBD B-VP O
 humans NNS B-NP O
@@ -476,7 +476,7 @@ in IN B-PP O
 4,275 CD B-NP O
 tonnes NNS I-NP O
 of IN B-PP O
-British JJ B-NP B-MISC
+British JJ B-NP O
 mutton NN I-NP O
 , , O O
 some DT B-NP O
@@ -552,10 +552,10 @@ the DT B-NP O
 draft NN I-NP O
 of IN B-PP O
 " " O O
-Ai VBZ B-VP B-MISC
-n't RB O I-MISC
-no DT B-NP I-MISC
-telling VBG B-VP I-MISC
+Ai VBZ B-VP O
+n't RB O O
+no DT B-NP O
+telling VBG B-VP O
 " " O O
 , , O O
 which WDT B-NP O
@@ -583,7 +583,7 @@ January NNP I-NP O
 concert NN I-NP O
 in IN B-PP O
 the DT B-NP O
-English JJ I-NP B-MISC
+English JJ I-NP O
 city NN I-NP O
 of IN B-PP O
 Nottingham NNP B-NP B-LOC
@@ -659,7 +659,7 @@ drugs NNS I-NP O
 which WDT B-NP O
 an DT B-NP O
 anonymous JJ I-NP O
-Australian JJ I-NP B-MISC
+Australian JJ I-NP O
 purchaser NN I-NP O
 bought VBD B-VP O
 for IN B-PP O
@@ -720,7 +720,7 @@ visit NN I-NP O
 to TO B-PP O
 Ukraine NNP B-NP B-LOC
 by IN B-PP O
-Taiwanese NNP B-NP B-MISC
+Taiwanese NNP B-NP O
 Vice NNP I-NP O
 President NNP I-NP O
 Lien NNP I-NP B-PER
@@ -736,7 +736,7 @@ Speaking VBG B-VP O
 only JJ B-ADVP O
 hours NNS B-NP O
 after IN B-PP O
-Chinese JJ B-NP B-MISC
+Chinese JJ B-NP O
 state NN I-NP O
 media NNS I-NP O
 said VBD B-VP O
@@ -926,7 +926,7 @@ Ukraine NNP B-NP B-LOC
 this DT B-NP O
 week NN I-NP O
 by IN B-PP O
-Taiwanese NNP B-NP B-MISC
+Taiwanese NNP B-NP O
 Vice NNP I-NP O
 President NNP I-NP O
 Lien NNP I-NP B-PER
@@ -1012,7 +1012,7 @@ on RB B-ADVP O
 Wednesday NNP B-NP O
 . . O O
 
-German NNP B-NP B-MISC
+German NNP B-NP O
 July NNP I-NP O
 car NN I-NP O
 registrations NNS I-NP O
@@ -1027,7 +1027,7 @@ yr NN B-NP O
 FRANKFURT NNP B-NP B-LOC
 1996-08-22 CD I-NP O
 
-German JJ B-NP B-MISC
+German JJ B-NP O
 first-time JJ I-NP O
 registrations NNS I-NP O
 of IN B-PP O
@@ -1118,9 +1118,9 @@ an DT B-NP O
 increased VBN I-NP O
 number NN I-NP O
 of IN B-PP O
-Germans NNPS B-NP B-MISC
+Germans NNPS B-NP O
 buying VBG B-VP O
-German JJ B-NP B-MISC
+German JJ B-NP O
 cars NNS I-NP O
 abroad RB B-ADVP O
 , , O O
@@ -1141,7 +1141,7 @@ said VBD B-VP O
 
 Almost RB B-NP O
 all DT I-NP O
-German JJ I-NP B-MISC
+German JJ I-NP O
 car NN I-NP O
 manufacturers NNS I-NP O
 posted VBD B-VP O
@@ -1247,7 +1247,7 @@ from IN B-PP O
 643 CD B-NP O
 . . O O
 
-GREEK JJ B-NP B-MISC
+GREEK JJ B-NP O
 SOCIALISTS NNS I-NP O
 GIVE VBP B-VP O
 GREEN NNP B-NP O
@@ -1262,7 +1262,7 @@ ATHENS NNS B-NP B-LOC
 1996-08-22 CD I-NP O
 
 The DT B-NP O
-Greek NNP I-NP B-MISC
+Greek NNP I-NP O
 socialist JJ I-NP O
 party NN I-NP O
 's POS B-NP O
@@ -1325,7 +1325,7 @@ Newsroom NNP I-NP I-ORG
 
 BayerVB NN B-NP B-ORG
 sets VBZ B-VP O
-C$ $ B-NP B-MISC
+C$ $ B-NP O
 100 CD I-NP O
 million CD I-NP O
 six-year JJ I-NP O
@@ -1352,7 +1352,7 @@ BAYERISCHE NNP I-NP B-ORG
 VEREINSBANK NNP I-NP I-ORG
 
 AMT NNP O O
-C$ $ B-NP B-MISC
+C$ $ B-NP O
 100 CD I-NP O
 MLN NNP I-NP O
 COUPON NN I-NP O
@@ -1413,7 +1413,7 @@ MAJ MD I-VP O
 
 GOV NNP B-NP O
 LAW NNP I-NP O
-GERMAN NNP I-NP B-MISC
+GERMAN NNP I-NP O
 HOME NNP I-NP O
 CTRY NNP I-NP O
 = SYM B-VP O
@@ -1486,7 +1486,7 @@ BORROWER NNP B-NP O
 VENANTIUS NNP I-NP B-ORG
 AB NNP I-NP I-ORG
 ( ( O O
-SWEDISH NNP B-NP B-MISC
+SWEDISH NNP B-NP O
 NATIONAL NNP I-NP O
 MORTGAGE NNP I-NP O
 AGENCY NN I-NP O
@@ -1565,7 +1565,7 @@ IPMA NNP B-NP O
 
 GOV NNP B-NP O
 LAW NNP I-NP O
-ENGLISH NNP I-NP B-MISC
+ENGLISH NNP I-NP O
 HOME NNP I-NP O
 CTRY NNP I-NP O
 SWEDEN NNP I-NP B-LOC
@@ -1713,7 +1713,7 @@ appears VBZ B-VP O
 to TO B-PP O
 me PRP B-NP O
 the DT B-NP O
-Syrian JJ I-NP B-MISC
+Syrian JJ I-NP O
 priority NN I-NP O
 is VBZ B-VP O
 still RB B-ADVP O
@@ -1722,7 +1722,7 @@ negotiate VB I-VP O
 . . O O
 
 The DT B-NP O
-Syrians NNPS I-NP B-MISC
+Syrians NNPS I-NP O
 are VBP B-VP O
 confused VBN B-ADJP O
 , , O O
